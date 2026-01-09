@@ -56,6 +56,9 @@ gitgraph
 # Hi this is Kolja.
 - Nice to meet you~~
 
+# 안녕하세요! 
+- 컨텐트-1 홍인표입니다. 
+
 이번엔 한승완이 수정함
 
 이번엔 김종현이 수정함 :)
@@ -66,7 +69,7 @@ gitgraph
 충돌을 위한 메시지입니다. - 홍인표 
 
 # 생일을 입력하세요.
-- 인표: sep 20
+- 인표: dec 20
 - 종현: mar 7
 - Kolja: may 28
 
