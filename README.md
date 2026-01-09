@@ -68,4 +68,5 @@ gitgraph
 # 생일을 입력하세요.
 - 인표: sep 20
 - 종현: mar 7
+- Kolja: may 28
 
